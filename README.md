@@ -1,4 +1,3 @@
-theme: jekyll-theme-merlot
 ### **Metro Exodus**
 # Weapons
 ---

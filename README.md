@@ -1,4 +1,5 @@
 ### **Metro Exodus**
+# Weapons
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |

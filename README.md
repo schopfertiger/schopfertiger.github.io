@@ -1,6 +1,7 @@
 ### **Metro Exodus**
 # Weapons
-| Syntax | Description |
+| Name | Damage |
 | ----------- | ----------- |
-| Header | Title |
+| (Weapon name) | 10/10 |
 | Paragraph | Text |
+|

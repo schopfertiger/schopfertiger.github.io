@@ -1,6 +1,6 @@
 ### **Metro Exodus**
 # Weapons
-| Name | Rating |
+                             | Name | Rating |
 | ----------- | ----------- |
 | (Weapon name) | 10/10 |
 | Kalash | 6/10 |

@@ -1,5 +1,4 @@
-### **Metro Exodus**
-# Weapons
+# Metro Exodus
 ---
 
 The entirety of the Metro games always showed diveresed weapons for every play-style.

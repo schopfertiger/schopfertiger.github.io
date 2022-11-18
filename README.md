@@ -8,8 +8,9 @@ The entirety of the Metro games always showed diveresed weapons for every play-s
 Here are my top-picks for the newest installement Metro Exodus.
 ---
 
-| Name | Rating |
+| Syntax | Description |
 | ----------- | ----------- |
+| Name | Rating |
 | (Weapon name) | 10/10 |
 | Kalash | 6/10 |
 | Bulldog | 7/10 |

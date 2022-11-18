@@ -1,5 +1,5 @@
 ### **Metro Exodus**
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Weapon |
+| Header | Title |
 | Paragraph | Text |

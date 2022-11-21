@@ -16,3 +16,11 @@ Here are my top-picks for the newest installement in the franchise: Metro Exodus
 | Tikhar(R) | 9/10 |
 | Shambler(SG) | 10/10 |
 | Valve(R) | 10/10 |
+## LINKS FOR WEAPON
+---
+
+[`kalash`](https://metrovideogame.fandom.com/wiki/Kalash_(AK-74M))
+[`Bulldog`](https://metrovideogame.fandom.com/wiki/Bulldog)
+[`Tikhar`](https://metrovideogame.fandom.com/wiki/Tihar)
+[`Shambler`](https://www.metrothegame.com/game/weapons/shambler-shot-gun/)
+[`Valve`](https://metrovideogame.fandom.com/wiki/Valve)

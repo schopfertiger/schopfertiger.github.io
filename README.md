@@ -24,3 +24,9 @@ Here are my top-picks for the newest installement in the franchise: Metro Exodus
 [`Tikhar`](https://metrovideogame.fandom.com/wiki/Tihar)
 [`Shambler`](https://www.metrothegame.com/game/weapons/shambler-shot-gun/)
 [`Valve`](https://metrovideogame.fandom.com/wiki/Valve)
+---
+
+# ABOUT ME
+---
+
+Im a boy who's into atmospheric games like the "Metro" series. I have been fond of this types of games especially the hardcore aspects of the series.

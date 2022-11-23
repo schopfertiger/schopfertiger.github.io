@@ -46,4 +46,7 @@ Here's a cat pic source [`Cat`](https://www.google.com/search?q=cat+pic&rlz=1C1C
 
 ![image](https://user-images.githubusercontent.com/118531367/203471290-48b5d642-5f1f-4a96-b7cd-08f20b9909b7.png)
 
+---
+
+No cats in the game tho :(
 

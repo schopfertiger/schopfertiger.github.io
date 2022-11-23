@@ -37,3 +37,13 @@ Here are my top-picks for the newest installement in the franchise: Metro Exodus
 ---
 
 Im a boy who's into atmospheric games like the "Metro" series. I have been fond of this types of games especially the hardcore aspects of the series.
+
+---
+
+Here's a cat pic he cute
+
+---
+
+![image](https://user-images.githubusercontent.com/118531367/203471290-48b5d642-5f1f-4a96-b7cd-08f20b9909b7.png)
+
+

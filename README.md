@@ -32,6 +32,17 @@ Here are my top-picks for the newest installement in the franchise: Metro Exodus
 
 ---
 
+### Metro Exodus OST
+| Syntax | Description |
+| ----------- | ----------- |
+| Name | Rating |
+| Race Against Fate | 10/10 |
+| Dead City | 10/10 |
+| In the House In a Heartbeat| 10/10 |
+| Exodus | 10/10 |
+
+---
+
 # ABOUT ME
 
 ---

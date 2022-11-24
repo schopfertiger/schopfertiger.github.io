@@ -33,6 +33,9 @@ Here are my top-picks for the newest installement in the franchise: Metro Exodus
 ---
 
 ### Metro Exodus OST
+
+---
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Name | Rating |
